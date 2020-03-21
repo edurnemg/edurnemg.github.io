@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   MSc Computational and Data Journalism at Cardiff University. Before, journalist in Kenya, Japan, and Spain. Passionate about coding, data, OSINT and viz. Open to opportunities and collaborations. Get in touch!
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "edurnemg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://edurnemg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: edurneMG
 github_username: edurnemg
 linkedin_username: edurne_morillo
