@@ -30,6 +30,18 @@ markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
 # theme: "just-the-docs"
 
+# Theme config
+# color_scheme: "dark"
+
+# Aux links for the upper right navigation
+aux_links:
+  "Twitter":
+    - "//twitter.com/EdurneMG"
+  "LinkedIn":
+    - "//www.linkedin.com/in/edurne-morillo/"
+
+# footer_content: '<a href="https://twitter.com/edurneMG">Twitter</a>'
+
 plugins:
   - jekyll-feed
 # Exclude from processing.
